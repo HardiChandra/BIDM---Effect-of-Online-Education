@@ -6,3 +6,6 @@ To find out the impact of online education against some other variables
 the Data Source folder contains the data that we have cleansed
 Project report represents the result
 while Online Education - Project Presentation - Final.pptx is the presentation file which also represents the result
+
+Screenshot of one of the findings :
+![Screenshot of one of the findings] (https://github.com/HardiChandra/BIDM---Effect-of-Online-Education/blob/master/Correlation.jpg)
